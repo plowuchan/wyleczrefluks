@@ -47,8 +47,8 @@
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "mail",
+          "url": "wyleczrefluks@gmail.com"
         }
       ]
     }
@@ -56,6 +56,6 @@
   "button": {
     "visible": true,
     "label": "Napisz do nas",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "wyleczrefluks@gmail.com"
   }
 }
