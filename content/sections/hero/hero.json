@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Witaj",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/top.jpg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Zmagasz się z problemem refluksu?",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Trafiłeś na dobrą ",
+    "highlight": "stronę",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Oferujemy program leczniczy, który pomoże poznać Ci lepiej swoje ciało i zmiejszać dolegliwości towarzyszące przy refluksie żołądkowo-przełykowym.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["Mail"],
+    "showIcons": true
   }
 }

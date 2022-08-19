@@ -1,14 +1,17 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/intro-min.jpg"
+imageAlt: "Herbs"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Wieloletnie doświaczenie w leczeniu chorób ziołami i innymi naturalnymi produktami, pozwoliło opracować skuteczną metodę leczenia dolegliwości chorób układu pokarmowego, jedną z nich jest właśnie choroba refluksowa.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Jeśli masz dość ciągłego chodzenia po lekarzach i przyjmowania leków, które wpływają negatywnie na Twój organizm, czemu nie spróbujesz czegoś innego?
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Nie oferujemy żadnego cudownego leku, który wyeliminuje wszystkie Twoje objawy. Przygotowany plan zawiera naturalne zioła i suplementy dostępne bez recepty.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Program leczniczy pomoże poznać Ci lepiej swoje ciało i nauczyć się zmiejszać dolegliwości, które mogą ustąpić lub zmniejszyć się do tego stopnia, że nie będą już takie uciążliwe i pozwolą na normalne funkcjonowanie.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Jeśli chcesz nauczyć się obserwować swoje ciało i zrobić krok do zdrowszego życia bez dolegliwości zapraszamy do kontaktu.
+
+
+Napisz do nas:   <a href="mailto: wyleczrefluks@gmail.com" aria-label="Wyslij mail"><u>wyleczrefluks@gmail.com</u></a>
